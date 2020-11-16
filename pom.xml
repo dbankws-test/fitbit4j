@@ -8,6 +8,7 @@
     <name>Fitbit</name>
     <url>http://fitbit.com</url>
 
+	
     <build>
         <plugins>
             <plugin>
